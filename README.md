@@ -24,3 +24,7 @@ What is the overall click-through rate (CTR) calculated as clicks/pageviews? How
 5. Correlation Analysis:
 
 Is there a correlation between clicks and previews on a link? If so, is it statistically significant, and how strong is the effect? Perform tests for both potential linear relationships and categorical (binary) relationships between these variables.
+
+Please download the dataset from below link:
+
+https://drive.google.com/file/d/11-PjYdHHpuPc8i80QgBFBJXNNMSBGRs4/view?usp=sharing
